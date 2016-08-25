@@ -1,1 +1,5 @@
-console.log("Hey! The script is working!");
+function thisWorks(a,b) {
+	return a * b;
+}
+
+console.log(x);
